@@ -1,0 +1,54 @@
+{
+  "cities": [
+    {
+      "name": "Paris",
+      "places": [
+        {
+          "id": "1",
+          "name": "Eiffel Tower",
+          "description": "Iconic iron tower offering city views and restaurants.",
+          "rating": 4.7,
+          "imageUrl": "https://example.com/eiffel.jpg",
+          "type": "attraction"
+        },
+        {
+          "id": "2",
+          "name": "Louvre Museum",
+          "description": "World's largest art museum housing Mona Lisa.",
+          "rating": 4.6,
+          "imageUrl": "https://example.com/louvre.jpg",
+          "type": "museum"
+        },
+        {
+          "id": "3",
+          "name": "Le Cinq",
+          "description": "Elegant restaurant serving French haute cuisine.",
+          "rating": 4.8,
+          "imageUrl": "https://example.com/lecinq.jpg",
+          "type": "restaurant"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "places": [
+        {
+          "id": "4",
+          "name": "Statue of Liberty",
+          "description": "Iconic symbol of freedom on Liberty Island.",
+          "rating": 4.7,
+          "imageUrl": "https://example.com/liberty.jpg",
+          "type": "attraction"
+        },
+        {
+          "id": "5",
+          "name": "Central Park",
+          "description": "Vast urban park with walking paths and lakes.",
+          "rating": 4.8,
+          "imageUrl": "https://example.com/centralpark.jpg",
+          "type": "attraction"
+        }
+      ]
+    }
+  ]
+}
